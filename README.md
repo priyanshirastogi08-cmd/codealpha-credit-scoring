@@ -109,3 +109,10 @@ Each model was evaluated using industry-standard machine learning metrics:
 3. Install the required dependencies via your terminal:
    ```bash
    pip install -r requirements.txt
+
+   ---
+
+## 👤 Author
+* **Priyanshi Rastogi**  
+* *B.Tech Computer Science and Engineering, IIIT Pune*  
+* *CodeAlpha Machine Learning Intern*
