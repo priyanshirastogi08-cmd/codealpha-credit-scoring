@@ -110,7 +110,7 @@ Each model was evaluated using industry-standard machine learning metrics:
    ```bash
    pip install -r requirements.txt
 
-   ---
+   
 
 ## 👤 Author
 * **Priyanshi Rastogi**  
